@@ -5,3 +5,7 @@
 4. Need For Speed
 5. Call Of Duty
 6. Battlefield
+7. Counter Strike
+8. Half Life
+9. Ricochet
+10. Vice City
